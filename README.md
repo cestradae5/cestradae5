@@ -1,6 +1,6 @@
 # ¡Hola, soy cestradae5! 👋
 
-### 🤖 Tengo experiencia en IA y Agentes
+### 🤖 Especializado en el desarrollo en IA y Agentes
 Tengo experencia en la creación de flujos de trabajo inteligentes utilizando **Claude Code** y **OpenCode**, con un enfoque técnico en:
 - **Orquestación de Agentes:** Conocimiento en agentes y subagentes para la generación de subprocesos en tareas de programación.
 - **Optimización de Contexto:** Uso de **Engram** para el ahorro crítico de tokens y modernización del contexto enviado a los LLMs.
