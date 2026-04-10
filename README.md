@@ -38,10 +38,15 @@ Tengo experencia en la creación de flujos de trabajo inteligentes utilizando **
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-![Lenguajes de estradae5](https://github-readme-stats.vercel.app/api/top-langs/?username=estradae5&layout=compact&theme=radical&hide_border=true&count_private=true)
+### 📊 Perfil Técnico y Métricas
+| Categoría | Nivel de Dominio | Herramientas Clave |
+| :--- | :--- | :--- |
+| **IA & Agentes** | Avanzado (Orquestación) | Claude Code, Engram, OpenCode |
+| **Backend** | Senior Student | Django, C#, PHP (Laravel) |
+| **Infraestructura** | Intermedio | Docker, Kali Linux, Ubuntu |
+| **Bases de Datos** | Diseño & Admin | PostgreSQL, MySQL |
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cestradae5&layout=compact&theme=radical&hide_border=true)
+> **Nota:** Mi actividad principal se refleja en repositorios privados bajo acuerdos de confidencialidad y proyectos para AMSA.
 
 ---
 
