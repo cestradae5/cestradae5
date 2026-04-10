@@ -1,4 +1,4 @@
-# ¡Hola, soy cestradae5! 👋
+# ¡Hola, soy Cesar Estrada (cestradae5)! 👋
 
 ### 🤖 Especializado en el desarrollo en IA y Agentes
 Tengo experencia en la creación de flujos de trabajo inteligentes utilizando **Claude Code** y **OpenCode**, con un enfoque técnico en:
