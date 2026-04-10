@@ -39,8 +39,8 @@ Tengo experencia en la creación de flujos de trabajo inteligentes utilizando **
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Estadísticas de [TU-USUARIO]](https://github-readme-stats.vercel.app/api?username=[TU-USUARIO]&show_icons=true&theme=radical&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO]&layout=compact&theme=radical&hide_border=true)
+![Estadísticas de [cestradae5]](https://github-readme-stats.vercel.app/api?username=[cestradae5]&show_icons=true&theme=radical&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[cestradae5]&layout=compact&theme=radical&hide_border=true)
 
 ---
 
