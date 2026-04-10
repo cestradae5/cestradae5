@@ -39,7 +39,7 @@ Tengo experencia en la creación de flujos de trabajo inteligentes utilizando **
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Estadísticas de estradae5](https://github-stats-alpha.vercel.app/api?username=estradae5&cc=000&tc=fff&ic=fff&bc=000)
+![Lenguajes de estradae5](https://github-readme-stats.vercel.app/api/top-langs/?username=estradae5&layout=compact&theme=radical&hide_border=true&count_private=true)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cestradae5&layout=compact&theme=radical&hide_border=true)
 
