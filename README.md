@@ -1,13 +1,13 @@
 # ¡Hola, soy cestradae5! 👋
 
-### 🤖 Especialización en IA y Agentes
-Me especializo en la creación de flujos de trabajo inteligentes utilizando **Claude Code** y **OpenCode**, con un enfoque técnico en:
-- **Orquestación de Agentes:** Implementación de sistemas de agentes y subagentes para la generación de subprocesos en tareas complejas de programación.
-- **Optimización de Contexto:** Uso experto de **Engram** para el ahorro crítico de tokens y modernización del contexto enviado a los LLMs.
+### 🤖 Tengo experiencia en IA y Agentes
+Tengo experencia en la creación de flujos de trabajo inteligentes utilizando **Claude Code** y **OpenCode**, con un enfoque técnico en:
+- **Orquestación de Agentes:** Conocimiento en agentes y subagentes para la generación de subprocesos en tareas de programación.
+- **Optimización de Contexto:** Uso de **Engram** para el ahorro crítico de tokens y modernización del contexto enviado a los LLMs.
 - **Metodología GentlemanSdd-Orquestor:** Aplicación de flujos de trabajo eficientes:
   1. 📋 Diseño de requerimientos.
-  2. 🔍 Evaluación de salidas.
-  3. 🗺️ Formulación de fases de acción.
+  2. 🔍 Evaluación de salidas que genera el agente.
+  3. 🗺️ Formulación de fases de acción para proceder.
   4. 🧪 Revisión y Testing riguroso de código entregado por agentes.
 
 ### 🛠️ Tecnologías y Herramientas
