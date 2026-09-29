@@ -47,7 +47,7 @@ Tengo experencia en los flujos de trabajo inteligentes utilizando **Claude Code*
 | Categoría | Nivel de Dominio | Herramientas Clave |
 | :--- | :--- | :--- |
 | **IA & Agentes** | Intermedio (Orquestación) | Claude Code, Engram, OpenCode |
-| **Backend** | Senior Student | Django, C#, PHP |
+| **Backend** | Básico | Django, C#, PHP |
 | **Infraestructura** | Intermedio | Docker, Kali Linux, Ubuntu |
 | **Bases de Datos** | Básico | PostgreSQL, MySQL |
 
