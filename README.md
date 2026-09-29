@@ -9,6 +9,8 @@ Tengo experencia en los flujos de trabajo inteligentes utilizando **Claude Code*
   2. 🔍 Evaluación de salidas que genera el agente.
   3. 🗺️ Formulación de fases de acción para proceder.
   4. 🧪 Revisión y Testing riguroso de código entregado por agentes.
+     
+ Orquesto agentes y subagentes con la herramienta 'open source' Gentle AI bajo el enfoque SDD (Spec-Driven Development).
 <a href="https://github.com/Gentleman-Programming/gentle-ai">
   <img width="220" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle-AI" />
 </a>
