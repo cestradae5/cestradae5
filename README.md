@@ -46,10 +46,10 @@ Tengo experencia en los flujos de trabajo inteligentes utilizando **Claude Code*
 ### 📊 Perfil Técnico y Métricas
 | Categoría | Nivel de Dominio | Herramientas Clave |
 | :--- | :--- | :--- |
-| **IA & Agentes** | Avanzado (Orquestación) | Claude Code, Engram, OpenCode |
-| **Backend** | Senior Student | Django, C#, PHP (Laravel) |
+| **IA & Agentes** | Intermedio (Orquestación) | Claude Code, Engram, OpenCode |
+| **Backend** | Senior Student | Django, C#, PHP |
 | **Infraestructura** | Intermedio | Docker, Kali Linux, Ubuntu |
-| **Bases de Datos** | Diseño & Admin | PostgreSQL, MySQL |
+| **Bases de Datos** | Básico | PostgreSQL, MySQL |
 
 > **Nota:** Mi actividad principal se refleja en repositorios privados bajo acuerdos de confidencialidad y proyectos para AMSA.
 
