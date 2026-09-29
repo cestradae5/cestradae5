@@ -1,7 +1,7 @@
 # ¡Hola, soy Cesar Estrada (cestradae5)! 👋
 
 ### 🤖 Especializado en el desarrollo en IA y Agentes
-Tengo experencia en la creación de flujos de trabajo inteligentes utilizando **Claude Code** y **OpenCode**, con un enfoque técnico en:
+Tengo experencia en los flujos de trabajo inteligentes utilizando **Claude Code** y **OpenCode**, con un enfoque técnico en:
 - **Orquestación de Agentes:** Conocimiento en agentes y subagentes para la generación de subprocesos en tareas de programación.
 - **Optimización de Contexto:** Uso de **Engram** para el ahorro crítico de tokens y modernización del contexto enviado a los LLMs.
 - **Metodología GentlemanSdd-Orquestor:** Aplicación de flujos de trabajo eficientes:
@@ -9,6 +9,9 @@ Tengo experencia en la creación de flujos de trabajo inteligentes utilizando **
   2. 🔍 Evaluación de salidas que genera el agente.
   3. 🗺️ Formulación de fases de acción para proceder.
   4. 🧪 Revisión y Testing riguroso de código entregado por agentes.
+<a href="https://github.com/Gentleman-Programming/gentle-ai">
+  <img width="220" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle-AI" />
+</a>
 
 ### 🛠️ Tecnologías y Herramientas
 
